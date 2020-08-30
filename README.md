@@ -9,10 +9,10 @@ A Node.js application using Express to create an online note taker. The user can
 * [License](#license)
 
 ## Installation
-To use this application, the just needs to go to the website to use it online. If you want to host the website locally, they just need to have node.js installed on their machine and run "npm install" on the command line interface while in the same directory.
+To use this application, the just needs to go to the [website](https://note-taker-ra.herokuapp.com/notes) to use it online. If you want to host the website locally, they just need to have node.js installed on their machine and run "npm install" on the command line interface while in the same directory.
 
 ## Usage
-To use this app, the user can go to the website or just type "node server.js" to run and go to "localhost:8080" in browser.
+To use this app, the user can go to the [website](https://note-taker-ra.herokuapp.com/notes) or just type "node server.js" to run and go to "localhost:8080" in browser.
 <br/>
 
 ![Note Taker](https://github.com/rahme/note-taker/blob/master/Note-Taker/images/saved-note.PNG)

@@ -15,7 +15,7 @@ To use this application, the just needs to go to the [website](https://note-take
 To use this app, the user can go to the [website](https://note-taker-ra.herokuapp.com/) or just type "node server.js" to run and go to "localhost:8080" in browser.
 <br/>
 
-![Note Taker](https://github.com/rahme/note-taker/blob/master/Note-Taker/images/saved-note.PNG)
+![Note Taker](https://github.com/rahme/note-taker/blob/master/images/saved-note.PNG?raw=true)
 
 ## License
 MIT License
